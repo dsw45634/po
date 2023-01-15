@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="pl.dsw45634.po.ex_9.University" id="University0">
+  <void property="students">
+   <void method="add">
+    <object class="pl.dsw45634.po.ex_9.Student">
+     <void property="name">
+      <string>Anna</string>
+     </void>
+     <void property="surname">
+      <string>Bobek</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="pl.dsw45634.po.ex_9.Student">
+     <void property="name">
+      <string>Marian</string>
+     </void>
+     <void property="surname">
+      <string>Stach</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
