@@ -2,6 +2,8 @@ package pl.dsw45634.po.ex_10.flyweight;
 
 import java.awt.Color;
 
+// refactoring guru
+
 class Main {
 
   static int CANVAS_SIZE = 500;

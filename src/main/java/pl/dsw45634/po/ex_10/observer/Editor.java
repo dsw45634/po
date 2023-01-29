@@ -2,6 +2,8 @@ package pl.dsw45634.po.ex_10.observer;
 
 import java.io.File;
 
+// refactoring guru
+
 class Editor {
 
   public EventManager events;

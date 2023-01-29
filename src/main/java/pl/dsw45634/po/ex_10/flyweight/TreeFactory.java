@@ -4,6 +4,8 @@ import java.awt.Color;
 import java.util.HashMap;
 import java.util.Map;
 
+// refactoring guru
+
 public class TreeFactory {
 
   static Map<String, TreeType> treeTypes = new HashMap<>();

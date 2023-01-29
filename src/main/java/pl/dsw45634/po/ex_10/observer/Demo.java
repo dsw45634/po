@@ -1,5 +1,7 @@
 package pl.dsw45634.po.ex_10.observer;
 
+// refactoring guru
+
 class Demo {
 
   public static void main(String[] args) {

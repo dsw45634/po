@@ -1,5 +1,7 @@
 package pl.dsw45634.po.ex_10.builder.no_2;
 
+// refactoring guru
+
 class CastleBuilder implements Builder {
 
   private String foundation;

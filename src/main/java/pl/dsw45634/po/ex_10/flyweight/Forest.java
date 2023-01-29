@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JFrame;
 
+// refactoring guru
+
 class Forest extends JFrame {
 
   private List<Tree> trees = new ArrayList<>();

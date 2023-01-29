@@ -3,6 +3,8 @@ package pl.dsw45634.po.ex_10.flyweight;
 import java.awt.Color;
 import java.awt.Graphics;
 
+// refactoring guru
+
 class TreeType {
 
   private String name;
